@@ -1,7 +1,7 @@
 机器学习算法Python实现
 =========
 
-#####<a href="#第一段的锚点名称">第一段标题</a>
+##### <a href="#第一段的锚点名称">第一段标题</a>
 
 
 ## 一、[线性回归](/LinearRegression)
@@ -1227,4 +1227,4 @@ def multivariateGaussian(X,mu,Sigma2):
 
 
 
-####<a name="第一段的锚点名称">第一段标题</a>
+#### <a name="第一段的锚点名称">第一段标题</a>
