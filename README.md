@@ -2,7 +2,7 @@
 =========
 
 ## 目录
-* [python学习](/python3)
+* [Python基础](/python3)
 	* [一 初级阶段](/python3/basic)
 	* [二 高级阶段](/python3/advanced)
 
